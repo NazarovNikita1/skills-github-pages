@@ -1,0 +1,4 @@
+---
+title: LONG STORY GENERATION
+---
+
